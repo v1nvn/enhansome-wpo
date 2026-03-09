@@ -1,4 +1,4 @@
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04 with stars
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,832 | 🐛 75 | 📅 2026-03-04 with stars
 
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors) ⭐ 8,843 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-26
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
@@ -121,7 +121,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Analyzers
 
-* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 29,887 | 🐛 508 | 🌐 JavaScript | 📅 2026-03-06 - Auditing and performance metrics tool for Progressive Web Applications.
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse) ⭐ 29,890 | 🐛 508 | 🌐 JavaScript | 📅 2026-03-06 - Auditing and performance metrics tool for Progressive Web Applications.
 * [Web Tracing Framework](https://github.com/google/tracing-framework) ⚠️ Archived - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) ⭐ 2,574 | 🐛 84 | 🌐 Python | 📅 2026-03-07 - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
 * [YSlow](https://github.com/marcelduran/yslow) ⭐ 2,204 | 🐛 141 | 🌐 JavaScript | 📅 2023-02-17 - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
@@ -156,11 +156,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Bundle Analyzer
 
-* [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,683 | 🐛 23 | 🌐 JavaScript | 📅 2026-03-02 - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
+* [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,683 | 🐛 24 | 🌐 JavaScript | 📅 2026-03-02 - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 * [Bundlesize](https://github.com/siddharthkp/bundlesize) ⭐ 4,485 | 🐛 83 | 🌐 JavaScript | 📅 2025-01-15 - Keep your bundle size in check.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) ⭐ 3,923 | 🐛 57 | 🌐 TypeScript | 📅 2023-03-14 - Analyze and debug bundle space usage through source maps.
 * [Compression webpack plugin](https://github.com/webpack-contrib/compression-webpack-plugin) ⭐ 1,426 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-02 - Prepare compressed versions of assets to serve them with Content-Encoding.
-* [BundleStats](https://github.com/relative-ci/bundle-stats) ⭐ 667 | 🐛 58 | 🌐 TypeScript | 📅 2026-03-06 - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+* [BundleStats](https://github.com/relative-ci/bundle-stats) ⭐ 667 | 🐛 59 | 🌐 TypeScript | 📅 2026-03-09 - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 * [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) ⭐ 4 | 🐛 4 | 🌐 JavaScript | 📅 2021-05-10 - analyze and Visualise project bundles created by Lasso.
 * [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding an npm package to your frontend bundle.
 * [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
@@ -247,11 +247,11 @@ Here's a quick overview of the categories covered in this collection:
 
 > How to remove all this unnecessary data and give you a file without degrading quality.
 
-* [Sharp](https://github.com/lovell/sharp) ⭐ 31,988 | 🐛 118 | 🌐 JavaScript | 📅 2026-03-07 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
-* [Exexif](https://github.com/h4cc/awesome-elixir) ⭐ 13,091 | 🐛 10 | 🌐 Elixir | 📅 2025-10-12 - Pure elixir library to extract tiff and exif metadata from JPEG files.
+* [Sharp](https://github.com/lovell/sharp) ⭐ 31,989 | 🐛 118 | 🌐 JavaScript | 📅 2026-03-07 - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
+* [Exexif](https://github.com/h4cc/awesome-elixir) ⭐ 13,092 | 🐛 10 | 🌐 Elixir | 📅 2025-10-12 - Pure elixir library to extract tiff and exif metadata from JPEG files.
 * [Gm](https://github.com/aheckmann/gm) ⭐ 6,979 | 🐛 368 | 🌐 JavaScript | 📅 2025-02-25 - GraphicsMagick and ImageMagick for Node.js.
 * [Imagemin](https://github.com/imagemin/imagemin) ⭐ 5,721 | 🐛 79 | 🌐 JavaScript | 📅 2025-03-07 - Minify images seamlessly with Node.js.
-* [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,668 | 🐛 99 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder.
+* [mozjpeg](https://github.com/mozilla/mozjpeg) ⭐ 5,669 | 🐛 99 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder.
 * [ZopfliPNG](https://github.com/google/zopfli) ⚠️ Archived - A command-line program to optimize PNG images.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) ⭐ 3,521 | 🐛 9 | 🌐 TypeScript | 📅 2024-09-13 - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 * [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) ⭐ 1,905 | 🐛 23 | 🌐 JavaScript | 📅 2025-11-11 - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -370,7 +370,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## SVG
 
-* [SVGO](https://github.com/svg/svgo) ⭐ 22,360 | 🐛 260 | 🌐 JavaScript | 📅 2026-03-04 - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
+* [SVGO](https://github.com/svg/svgo) ⭐ 22,360 | 🐛 257 | 🌐 JavaScript | 📅 2026-03-08 - SVGO is a Nodejs-based tool for optimizing SVG vector graphics files.
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) ⚠️ Archived - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, and provides threaded processing on multicore processors.
 * [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) ⭐ 434 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-31 - Minify SVG using SVGO for Grunt.
 * [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
@@ -384,7 +384,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Web server Benchmarks
 
-* [wrk](https://github.com/wg/wrk) ⭐ 40,118 | 🐛 202 | 🌐 C | 📅 2023-12-30 - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
+* [wrk](https://github.com/wg/wrk) ⭐ 40,119 | 🐛 202 | 🌐 C | 📅 2023-12-30 - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
   processing, and custom reporting)
 * [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) ⭐ 6,617 | 🐛 77 | 🌐 Python | 📅 2024-03-28 - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 * [HTTPerf](https://github.com/httperf/httperf) ⭐ 1,020 | 🐛 54 | 🌐 C | 📅 2022-04-20 - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
@@ -420,9 +420,9 @@ Here's a quick overview of the categories covered in this collection:
 
 # Other Awesome Lists
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04.
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,277 | 🐛 45 | 🌐 Ruby | 📅 2024-06-02.
-* [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) ⭐ 1,037 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-07 - Research in Web Performance
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 443,832 | 🐛 75 | 📅 2026-03-04.
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,278 | 🐛 45 | 🌐 Ruby | 📅 2024-06-02.
+* [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) ⭐ 1,039 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-07 - Research in Web Performance
 * [iamakulov/awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) ⭐ 963 | 🐛 1 | 📅 2021-07-23 - A curated list of webpack tools for web performance
 
 # Contributing
