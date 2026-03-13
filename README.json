@@ -71,7 +71,7 @@
             "last_commit": "2026-03-11T20:30:10Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 29905
+            "stars": 29908
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-03-02T14:45:48Z",
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12682
+            "stars": 12681
           }
         },
         {
@@ -320,7 +320,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T02:05:10Z",
+            "last_commit": "2026-03-13T02:05:30Z",
             "owner": "relative-ci",
             "repo": "bundle-stats",
             "stars": 667
@@ -391,7 +391,7 @@
             "last_commit": "2024-10-11T03:59:02Z",
             "owner": "mrdoob",
             "repo": "stats.js",
-            "stars": 9099
+            "stars": 9100
           }
         },
         {
@@ -520,7 +520,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-09T10:43:49Z",
+            "last_commit": "2026-03-12T19:19:45Z",
             "owner": "GoogleChrome",
             "repo": "web-vitals",
             "stars": 8442
@@ -536,7 +536,7 @@
             "last_commit": "2026-03-11T20:30:10Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse",
-            "stars": 29905
+            "stars": 29908
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2026-02-22T02:06:16Z",
             "owner": "GoogleChrome",
             "repo": "lighthouse-ci",
-            "stars": 6891
+            "stars": 6893
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2025-03-07T09:39:56Z",
             "owner": "imagemin",
             "repo": "imagemin",
-            "stars": 5721
+            "stars": 5722
           }
         },
         {
@@ -775,10 +775,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-07T22:20:02Z",
+            "last_commit": "2026-03-12T09:25:22Z",
             "owner": "lovell",
             "repo": "sharp",
-            "stars": 32001
+            "stars": 32008
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13091
+            "stars": 13094
           }
         },
         {
@@ -1424,7 +1424,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13405
+            "stars": 13407
           }
         },
         {
@@ -1734,7 +1734,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-08T20:29:53Z",
+            "last_commit": "2026-03-13T02:09:16Z",
             "owner": "svg",
             "repo": "svgo",
             "stars": 22378
@@ -1930,7 +1930,7 @@
             "last_commit": "2023-12-30T10:33:51Z",
             "owner": "wg",
             "repo": "wrk",
-            "stars": 40124
+            "stars": 40130
           }
         },
         {
@@ -1956,7 +1956,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:13:46.331Z",
+    "last_updated": "2026-03-13T04:12:44.224Z",
     "original_repository": "davidsonfellipe/awesome-wpo",
     "source_repository": "v1nvn/enhansome-wpo",
     "source_repository_description": null,
